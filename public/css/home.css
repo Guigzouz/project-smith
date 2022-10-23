@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
 * {
     background-color: blue;
+    font-family: 'Roboto Mono', monospace;
+
 }
 
   .typing-container {
@@ -30,3 +34,14 @@
       opacity: 0;
     }
   }
+
+.section1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.home-div-title{
+  color: white;
+  font-size: 30px;
+}

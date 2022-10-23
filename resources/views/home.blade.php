@@ -11,6 +11,7 @@
 <body>
     <section class="section1">
     <div class="home-div-title">
+        <h1>SmithⓇ</h1>
     </div>
     <div class="typing-container">
     <p><span class="typing-text"></span></p>

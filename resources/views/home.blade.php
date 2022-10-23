@@ -11,12 +11,9 @@
 <body>
     <section class="section1">
     <div class="home-div-title">
-        <h1 class="home-h1">
-            Smith
-        </h1>
     </div>
     <div class="typing-container">
-    <p>Smith <span class="typing-text"></span></p>
+    <p><span class="typing-text"></span></p>
     </div>
     </section>
 </body>
